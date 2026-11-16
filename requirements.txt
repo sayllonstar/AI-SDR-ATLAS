@@ -1,0 +1,13 @@
+# python -m pip install -r requirements.txt
+qlalchemy>=2.0.0
+pydantic>=2.14.3
+pydantic-settings>=0.2.3
+pydantic-core>=2.50.4
+alembic>=1.20.1
+passlib[bcrypt]>=1.7.4
+python-jose[cryptography]>=3.5.0
+httpx>=0.28.1
+fastapi>=0.163.1
+pyrefly>=1.4.1
+datetime>=6.0
+uuid>=1.30
